@@ -1,4 +1,6 @@
 /* styles */
 p {
     color: burlywood;
+    padding: 2px;
+    margin: 1rem;
 }
